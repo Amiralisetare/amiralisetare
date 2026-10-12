@@ -49,7 +49,8 @@ Exploring modern web experiences and online commerce, with an emphasis on though
 
 [Explore my repositories →](https://github.com/Amiralisetare?tab=repositories)
 
-### 🐍 Python & Telegram Bots
+### <img src="https://cdn.simpleicons.org/python/3776AB" width="48" alt="Python logo">
+ Python & Telegram Bots
 
 **Python · Automation · APIs**
 
@@ -70,7 +71,6 @@ Personal software projects focused on Python development, automation, and bot-ba
 - **Think about users:** Value clarity, usability, and reliability.
 - **Keep learning:** Improve through building and experimentation.
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="48" alt="Python logo">
 
 ---
 
