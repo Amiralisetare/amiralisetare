@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Amirali Setare 👋
 
-<!--
-**Amiralisetare/amiralisetare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer · Building useful things for the web
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical digital products, exploring new technologies, and building projects that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently building:** Panelverse and personal software projects
+- 🌐 **Web development:** Exploring WordPress, WooCommerce, and modern web experiences
+- 🤖 **Automation:** Building Python tools and Telegram bots
+- 📚 **Currently learning:** Improving my software engineering and development workflow
+- 🎯 **Goal:** Build reliable, useful, and well-designed software
+
+### 🛠️ Technologies & Tools
+
+**Languages & scripting:** Python, HTML, CSS, JavaScript  
+**Web & platforms:** WordPress, WooCommerce  
+**Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+
+- **Panelverse** — A project focused on digital experiences and online commerce.
+- **Python & Telegram Bots** — Automation tools and bot development experiments.
+
+Explore my repositories to see what I'm building.
+
+### 🤝 Let's Connect
+
+- GitHub: [@Amiralisetare](https://github.com/Amiralisetare)
+- Portfolio: amiralisetare.me
+- Contact: amiralisetare@proton.me
+
+---
+
+*Learning, building, and improving one project at a time.*
